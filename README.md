@@ -3,7 +3,7 @@
 The Central Library App for the simplication to book the study rooms in the University of Texas at Arlington.\
 This was Team 1 Spring 2022 Project for CSE3311.\
 Team 1 members: Bhuwan Shrestha, Hector Alvarado, Alexander Olmedo, and Axel Marungike.\
-This was imported from: https://github.com/bxs8072/cse-3311-team-1-project.git \
+This was imported from: https://github.com/bxs8072/cse-3311-team-1-project.git 
 
 ## Features Available
 1. Registration and login using valid UTA email address
